@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {  font-family: 'Ubuntu','Almarai', sans-serif;}
+
+.sidebar1 {left: -455px;text-align: left;}
+.sidebar1.active { left: 0; }
+.dismiss{right: 10px;}
+.sidebar1 ul li a i { margin-right: 5px; }
+.sidebar1 .dropdown-toggle::after {right: 20px}
+.apply_get {margin-top: 48px;margin-left: 72px;}
+.lang-link { list-style: none; }
+/*.nav_list {float: right}*/
+.nav-bar-style {text-align: center;}
+.flag {width: 23px;height: 18px;margin-bottom: 4px;margin-left: 5px;}
+.flag_icon {width: 20px;height: 15px;margin-bottom: 4px;margin-left: 5px;}
+
+
+/* Start Order Completed */
+.order-completed-page .order-details .card .card-body table tr th span{padding-left: 17px}
+.user-order-details {margin-left: -4px; }
+.user-ship-pill-details {margin-left: -4px; }
+.notes {margin-left : 10px}
+.div_span {margin-left: 15px}
+/* End Order Completed */
+
+footer p {padding-right: 50px}
+
+
+

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Almarai%3A400%2C&display=fallback&ver=3.7.9');
+body {font-family: 'Almarai','Ubuntu',sans-serif;font-size: 17px;}
+
+/* Start Over All */
+.dismiss{right: 10px;}
+.lang-link { list-style: none; }
+.nav-bar-style {text-align: center;}
+.flag {width: 23px;height: 18px;margin-bottom: 4px;margin-left: 5px;}
+.flag_icon {width: 20px;height: 15px;margin-bottom: 4px;margin-left: 5px;}
+/* End Over All */
+
+/* Start Header */
+.shopping-tools {position: absolute;top: 30px;right: 33%;}
+.nav_list {margin-top: -6px;margin-left: 0;}
+#lang_list {text-align: center}
+/* End Header */
+
+/* Start Order Completed */
+.order-completed-page .order-details .card .card-body table tr th span{padding-left: 17px}
+.user-order-details {margin-left: -4px; }
+.user-ship-pill-details {margin-left: -4px; }
+.notes {margin-left : 10px}
+.div_span {margin-left: 15px}
+/* End Order Completed */
+
+/* Start Counter */
+.funfact-one__single_1 p{margin-left: 28px!important;}
+.funfact-one__single_4 p{margin-right: 46px!important;}
+/* End Counter */
+
+/* Start Projects */
+.projects_container .project_card .face.face1 .title {line-height: 57px}
+footer {direction: rtl}
+footer p {color: #fff;padding-left: 50px}
+/* End Projects */
+
+/* Start Contact us */
+.contact-us form {text-align: right}
+.contact-us .contact-methods {text-align: right}
+.contact-methods img {margin-left: 10px}
+.nice-select {text-align: right!important;}
+.nice-select .option {text-align: right;}
+/* End Contact us */
+
+/* Start Track Order */
+.track-order .main {text-align: right;}
+/* End Track Order */
+
+/* Start Wish List */
+.wish-card .discount-patch span {left: 4px;top: 8px;}
+.empty-list {text-align: right;}
+/* End Wish List */
+
+/* Start Service Order */
+.apply_form {text-align: right;}
+.submit-btn-div {text-align: left;}
+/* End Service Order */
+
+/* Start Product Details */
+.product-info {text-align: right; }
+.more_product_details .tab-pane {text-align: right}
+.related_product .discount-patch span{left: 8px;}
+/* End Product Details */
+
+/* Start Check out */
+.checkout-page .pill-form {text-align: right;float: right;margin: 0 100px  0 30px;}
+.checkout-page .pill-form .pill-form-inputs {text-align: right;}
+.total-info .card {float: left;text-align: right;margin-left: 78px;}
+/* End Check out */
+
+/* Start Order Completed */
+.thank-note {text-align: right;}
+.order-completed-page .order-details .card {text-align: right;}
+.order-completed-page .order-details .card .card-body table {text-align: right}
+.order-completed-page .order-details .card .card-body table tr th span {padding-right: 15px}
+/* End Order Completed */
+
+/* Start Modal Sign */
+.modal form span {border-top-right-radius: 0.25rem !important;border-bottom-right-radius: 0.25rem!important;border-bottom-left-radius: 0;border-top-left-radius: 0;}
+.modal form input {margin-right: -1px;border-bottom-left-radius: 0.25rem !important;border-top-left-radius: 0.25rem!important;border-top-right-radius: 0;border-bottom-right-radius: 0;}
+.modal#sign .or {margin: 0 120px;}
+/* End Modal Sign */
+
+
+/* Start User Dashboard */
+.user-hi {text-align: right;}
+.user-address {text-align: right;}
+.user-order-details .card-body, .user-ship-pill-details .card-body {text-align: right;}
+.ship-pill-details-edit {text-align: right}
+.personal-info {text-align: right}
+/* End User Dashboard */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

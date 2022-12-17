@@ -1,0 +1,140 @@
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
+
+
+
+
+
+/* Retina-ize images/icons */
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+
+
+}
+
+
+/*media query start */
+
+/*less than 575px*/
+@media only screen and (max-width:380px)
+{
+    /* Start Overall */
+    h2, h4 {font-size: 1.1em!important;}
+    /* End Overall */
+
+    /* Start Home Page */
+    .product_card .discount-patch span {left: 5px;}
+    /* End Home Page */
+
+    /* Start Header */
+    .sidebar2 .side_bar_2_contact_div_dismiss {right: 8px}
+    #lang_list {margin-left: 7px;}
+    footer p {padding-right: 0;padding-left: 0;}
+    #lang_list {text-align: center;}
+    /* End Header */
+
+    /* Start Services */
+    .service_card .card-text {font-size: 16px;line-height: 23px;}
+    /* End Services */
+
+    /* Start Counter */
+    .funfact-one__single_4 p {margin-right: 10px!important;}
+    .funfact-one__single_1 p {margin-left: 0!important;}
+    /* End Counter */
+
+    /* Start Contact Us */
+    .nice-select .option {text-align: right;}
+    /* End Contact Us */
+
+    /* Start Product */
+    .description-list {padding-right: 0!important;}
+    .related_products .product_card .discount-patch span {left: 6px;}
+    .more_product_details .tab-pane .description-list {padding-right: 25px;}
+    /* End Product */
+
+    /* Start Cart */
+    .total-info .card {margin-left: 0;}
+    .cart-page .total-info a.btn-complete-order {width: 100%;}
+    /* End Cart */
+
+    /* Start Checkout */
+    .checkout-page .total-info button.btn-complete-order {width: 100%;}
+    .total-info .card .card-body table tr th.product_th {width: 29%;}
+    .checkout-page .total-info .card .card-body table tr th.quantity_th {width: 0%;}
+    .total-info .card .card-body table tr th.total_th {width: 17%;}
+    .checkout-page .total-info {margin: 30px 10px 0 10px;}
+    /* End Checkout */
+
+    /* Start Order Completed */
+    .order-completed-page .order-details .card {text-align: right;margin-top: 20px;}
+    .order-completed-page .order-details .card .card-body table tr th span {padding-right: 5px;}
+    .user-address a {padding-right: 4rem !important;padding-left: 1rem !important;}
+    /* End Order Completed */
+
+    /* Start Wish List */
+    .wish-card .discount-patch span {left: 4px;}
+    /* End Wish List */
+
+    /* Start Modal Sign */
+    .modal#sign button {padding: 13px 20px;}
+    .modal#sign .or {margin: 0 66px;}
+    /* End Modal Sign */
+
+
+
+}
+
+
+/*less than 575px*/
+@media only screen and (max-width:575px)  and (min-width: 380px)
+{
+
+
+}
+
+/*less than 767px*/
+@media only screen and (max-width:768px) and (min-width:575px)
+{
+
+}
+/*less then 992px and less than 768*/
+@media only screen and (max-width:993px) and (min-width:768px)
+{
+
+}
+
+/*less then1140px and less than 993*/
+@media only screen and (max-width:1140px) and (min-width: 993px)
+{
+
+}
+
+@media only screen and (max-width:1366px) and (min-width: 1141px)
+{
+
+}
